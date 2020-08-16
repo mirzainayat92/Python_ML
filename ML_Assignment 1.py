@@ -3,6 +3,9 @@
 
 # author : mirza_inayat
 
+# Python program for webscrapping
+# Fetching Hotel details from goibibo.com
+
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
